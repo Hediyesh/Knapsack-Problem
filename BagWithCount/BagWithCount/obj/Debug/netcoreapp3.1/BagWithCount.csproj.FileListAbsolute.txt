@@ -1,0 +1,39 @@
+C:\Users\ASUS\source\repos\BagWithCount\BagWithCount\bin\Debug\netcoreapp3.1\BagWithCount.exe
+C:\Users\ASUS\source\repos\BagWithCount\BagWithCount\bin\Debug\netcoreapp3.1\BagWithCount.deps.json
+C:\Users\ASUS\source\repos\BagWithCount\BagWithCount\bin\Debug\netcoreapp3.1\BagWithCount.runtimeconfig.json
+C:\Users\ASUS\source\repos\BagWithCount\BagWithCount\bin\Debug\netcoreapp3.1\BagWithCount.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\BagWithCount\BagWithCount\bin\Debug\netcoreapp3.1\BagWithCount.dll
+C:\Users\ASUS\source\repos\BagWithCount\BagWithCount\bin\Debug\netcoreapp3.1\BagWithCount.pdb
+C:\Users\ASUS\source\repos\BagWithCount\BagWithCount\obj\Debug\netcoreapp3.1\BagWithCount.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\BagWithCount\BagWithCount\obj\Debug\netcoreapp3.1\BagWithCount.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BagWithCount\BagWithCount\obj\Debug\netcoreapp3.1\BagWithCount.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BagWithCount\BagWithCount\obj\Debug\netcoreapp3.1\BagWithCount.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BagWithCount\BagWithCount\obj\Debug\netcoreapp3.1\BagWithCount.dll
+C:\Users\ASUS\source\repos\BagWithCount\BagWithCount\obj\Debug\netcoreapp3.1\BagWithCount.pdb
+C:\Users\ASUS\source\repos\BagWithCount\BagWithCount\obj\Debug\netcoreapp3.1\BagWithCount.genruntimeconfig.cache
+I:\hard\hedy\dars\proje o tamrina\BagWithCount\BagWithCount\bin\Debug\netcoreapp3.1\BagWithCount.exe
+I:\hard\hedy\dars\proje o tamrina\BagWithCount\BagWithCount\bin\Debug\netcoreapp3.1\BagWithCount.deps.json
+I:\hard\hedy\dars\proje o tamrina\BagWithCount\BagWithCount\bin\Debug\netcoreapp3.1\BagWithCount.runtimeconfig.json
+I:\hard\hedy\dars\proje o tamrina\BagWithCount\BagWithCount\bin\Debug\netcoreapp3.1\BagWithCount.runtimeconfig.dev.json
+I:\hard\hedy\dars\proje o tamrina\BagWithCount\BagWithCount\bin\Debug\netcoreapp3.1\BagWithCount.dll
+I:\hard\hedy\dars\proje o tamrina\BagWithCount\BagWithCount\bin\Debug\netcoreapp3.1\BagWithCount.pdb
+I:\hard\hedy\dars\proje o tamrina\BagWithCount\BagWithCount\obj\Debug\netcoreapp3.1\BagWithCount.csprojAssemblyReference.cache
+I:\hard\hedy\dars\proje o tamrina\BagWithCount\BagWithCount\obj\Debug\netcoreapp3.1\BagWithCount.csproj.CoreCompileInputs.cache
+I:\hard\hedy\dars\proje o tamrina\BagWithCount\BagWithCount\obj\Debug\netcoreapp3.1\BagWithCount.AssemblyInfoInputs.cache
+I:\hard\hedy\dars\proje o tamrina\BagWithCount\BagWithCount\obj\Debug\netcoreapp3.1\BagWithCount.AssemblyInfo.cs
+I:\hard\hedy\dars\proje o tamrina\BagWithCount\BagWithCount\obj\Debug\netcoreapp3.1\BagWithCount.dll
+I:\hard\hedy\dars\proje o tamrina\BagWithCount\BagWithCount\obj\Debug\netcoreapp3.1\BagWithCount.pdb
+I:\hard\hedy\dars\proje o tamrina\BagWithCount\BagWithCount\obj\Debug\netcoreapp3.1\BagWithCount.genruntimeconfig.cache
+D:\bre be git\proje o tamrina\BagWithCount\BagWithCount\bin\Debug\netcoreapp3.1\BagWithCount.exe
+D:\bre be git\proje o tamrina\BagWithCount\BagWithCount\bin\Debug\netcoreapp3.1\BagWithCount.deps.json
+D:\bre be git\proje o tamrina\BagWithCount\BagWithCount\bin\Debug\netcoreapp3.1\BagWithCount.runtimeconfig.json
+D:\bre be git\proje o tamrina\BagWithCount\BagWithCount\bin\Debug\netcoreapp3.1\BagWithCount.runtimeconfig.dev.json
+D:\bre be git\proje o tamrina\BagWithCount\BagWithCount\bin\Debug\netcoreapp3.1\BagWithCount.dll
+D:\bre be git\proje o tamrina\BagWithCount\BagWithCount\bin\Debug\netcoreapp3.1\BagWithCount.pdb
+D:\bre be git\proje o tamrina\BagWithCount\BagWithCount\obj\Debug\netcoreapp3.1\BagWithCount.csprojAssemblyReference.cache
+D:\bre be git\proje o tamrina\BagWithCount\BagWithCount\obj\Debug\netcoreapp3.1\BagWithCount.csproj.CoreCompileInputs.cache
+D:\bre be git\proje o tamrina\BagWithCount\BagWithCount\obj\Debug\netcoreapp3.1\BagWithCount.AssemblyInfoInputs.cache
+D:\bre be git\proje o tamrina\BagWithCount\BagWithCount\obj\Debug\netcoreapp3.1\BagWithCount.AssemblyInfo.cs
+D:\bre be git\proje o tamrina\BagWithCount\BagWithCount\obj\Debug\netcoreapp3.1\BagWithCount.dll
+D:\bre be git\proje o tamrina\BagWithCount\BagWithCount\obj\Debug\netcoreapp3.1\BagWithCount.pdb
+D:\bre be git\proje o tamrina\BagWithCount\BagWithCount\obj\Debug\netcoreapp3.1\BagWithCount.genruntimeconfig.cache

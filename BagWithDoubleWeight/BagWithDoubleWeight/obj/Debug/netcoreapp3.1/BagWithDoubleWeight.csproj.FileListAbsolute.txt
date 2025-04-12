@@ -1,0 +1,39 @@
+C:\Users\ASUS\source\repos\BagWithDoubleWeight\BagWithDoubleWeight\bin\Debug\netcoreapp3.1\BagWithDoubleWeight.exe
+C:\Users\ASUS\source\repos\BagWithDoubleWeight\BagWithDoubleWeight\bin\Debug\netcoreapp3.1\BagWithDoubleWeight.deps.json
+C:\Users\ASUS\source\repos\BagWithDoubleWeight\BagWithDoubleWeight\bin\Debug\netcoreapp3.1\BagWithDoubleWeight.runtimeconfig.json
+C:\Users\ASUS\source\repos\BagWithDoubleWeight\BagWithDoubleWeight\bin\Debug\netcoreapp3.1\BagWithDoubleWeight.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\BagWithDoubleWeight\BagWithDoubleWeight\bin\Debug\netcoreapp3.1\BagWithDoubleWeight.dll
+C:\Users\ASUS\source\repos\BagWithDoubleWeight\BagWithDoubleWeight\bin\Debug\netcoreapp3.1\BagWithDoubleWeight.pdb
+C:\Users\ASUS\source\repos\BagWithDoubleWeight\BagWithDoubleWeight\obj\Debug\netcoreapp3.1\BagWithDoubleWeight.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\BagWithDoubleWeight\BagWithDoubleWeight\obj\Debug\netcoreapp3.1\BagWithDoubleWeight.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BagWithDoubleWeight\BagWithDoubleWeight\obj\Debug\netcoreapp3.1\BagWithDoubleWeight.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BagWithDoubleWeight\BagWithDoubleWeight\obj\Debug\netcoreapp3.1\BagWithDoubleWeight.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BagWithDoubleWeight\BagWithDoubleWeight\obj\Debug\netcoreapp3.1\BagWithDoubleWeight.dll
+C:\Users\ASUS\source\repos\BagWithDoubleWeight\BagWithDoubleWeight\obj\Debug\netcoreapp3.1\BagWithDoubleWeight.pdb
+C:\Users\ASUS\source\repos\BagWithDoubleWeight\BagWithDoubleWeight\obj\Debug\netcoreapp3.1\BagWithDoubleWeight.genruntimeconfig.cache
+I:\hard\hedy\dars\proje o tamrina\BagWithDoubleWeight\BagWithDoubleWeight\bin\Debug\netcoreapp3.1\BagWithDoubleWeight.exe
+I:\hard\hedy\dars\proje o tamrina\BagWithDoubleWeight\BagWithDoubleWeight\bin\Debug\netcoreapp3.1\BagWithDoubleWeight.deps.json
+I:\hard\hedy\dars\proje o tamrina\BagWithDoubleWeight\BagWithDoubleWeight\bin\Debug\netcoreapp3.1\BagWithDoubleWeight.runtimeconfig.json
+I:\hard\hedy\dars\proje o tamrina\BagWithDoubleWeight\BagWithDoubleWeight\bin\Debug\netcoreapp3.1\BagWithDoubleWeight.runtimeconfig.dev.json
+I:\hard\hedy\dars\proje o tamrina\BagWithDoubleWeight\BagWithDoubleWeight\bin\Debug\netcoreapp3.1\BagWithDoubleWeight.dll
+I:\hard\hedy\dars\proje o tamrina\BagWithDoubleWeight\BagWithDoubleWeight\bin\Debug\netcoreapp3.1\BagWithDoubleWeight.pdb
+I:\hard\hedy\dars\proje o tamrina\BagWithDoubleWeight\BagWithDoubleWeight\obj\Debug\netcoreapp3.1\BagWithDoubleWeight.csprojAssemblyReference.cache
+I:\hard\hedy\dars\proje o tamrina\BagWithDoubleWeight\BagWithDoubleWeight\obj\Debug\netcoreapp3.1\BagWithDoubleWeight.csproj.CoreCompileInputs.cache
+I:\hard\hedy\dars\proje o tamrina\BagWithDoubleWeight\BagWithDoubleWeight\obj\Debug\netcoreapp3.1\BagWithDoubleWeight.AssemblyInfoInputs.cache
+I:\hard\hedy\dars\proje o tamrina\BagWithDoubleWeight\BagWithDoubleWeight\obj\Debug\netcoreapp3.1\BagWithDoubleWeight.AssemblyInfo.cs
+I:\hard\hedy\dars\proje o tamrina\BagWithDoubleWeight\BagWithDoubleWeight\obj\Debug\netcoreapp3.1\BagWithDoubleWeight.dll
+I:\hard\hedy\dars\proje o tamrina\BagWithDoubleWeight\BagWithDoubleWeight\obj\Debug\netcoreapp3.1\BagWithDoubleWeight.pdb
+I:\hard\hedy\dars\proje o tamrina\BagWithDoubleWeight\BagWithDoubleWeight\obj\Debug\netcoreapp3.1\BagWithDoubleWeight.genruntimeconfig.cache
+D:\bre be git\proje o tamrina\BagWithDoubleWeight\BagWithDoubleWeight\bin\Debug\netcoreapp3.1\BagWithDoubleWeight.exe
+D:\bre be git\proje o tamrina\BagWithDoubleWeight\BagWithDoubleWeight\bin\Debug\netcoreapp3.1\BagWithDoubleWeight.deps.json
+D:\bre be git\proje o tamrina\BagWithDoubleWeight\BagWithDoubleWeight\bin\Debug\netcoreapp3.1\BagWithDoubleWeight.runtimeconfig.json
+D:\bre be git\proje o tamrina\BagWithDoubleWeight\BagWithDoubleWeight\bin\Debug\netcoreapp3.1\BagWithDoubleWeight.runtimeconfig.dev.json
+D:\bre be git\proje o tamrina\BagWithDoubleWeight\BagWithDoubleWeight\bin\Debug\netcoreapp3.1\BagWithDoubleWeight.dll
+D:\bre be git\proje o tamrina\BagWithDoubleWeight\BagWithDoubleWeight\bin\Debug\netcoreapp3.1\BagWithDoubleWeight.pdb
+D:\bre be git\proje o tamrina\BagWithDoubleWeight\BagWithDoubleWeight\obj\Debug\netcoreapp3.1\BagWithDoubleWeight.csprojAssemblyReference.cache
+D:\bre be git\proje o tamrina\BagWithDoubleWeight\BagWithDoubleWeight\obj\Debug\netcoreapp3.1\BagWithDoubleWeight.csproj.CoreCompileInputs.cache
+D:\bre be git\proje o tamrina\BagWithDoubleWeight\BagWithDoubleWeight\obj\Debug\netcoreapp3.1\BagWithDoubleWeight.AssemblyInfoInputs.cache
+D:\bre be git\proje o tamrina\BagWithDoubleWeight\BagWithDoubleWeight\obj\Debug\netcoreapp3.1\BagWithDoubleWeight.AssemblyInfo.cs
+D:\bre be git\proje o tamrina\BagWithDoubleWeight\BagWithDoubleWeight\obj\Debug\netcoreapp3.1\BagWithDoubleWeight.dll
+D:\bre be git\proje o tamrina\BagWithDoubleWeight\BagWithDoubleWeight\obj\Debug\netcoreapp3.1\BagWithDoubleWeight.pdb
+D:\bre be git\proje o tamrina\BagWithDoubleWeight\BagWithDoubleWeight\obj\Debug\netcoreapp3.1\BagWithDoubleWeight.genruntimeconfig.cache
